@@ -49,4 +49,4 @@ This dataset contains product listings and review information, not verified tran
 This project demonstrates how Python and Power BI can be used to clean, analyze, and visualize product pricing and customer review data.
 
 ## Author
-Add your GitHub profile and contact details here.
+https://github.com/vidya-cse-dev
