@@ -45,6 +45,10 @@ This project analyzes Amazon product listings to understand pricing patterns, di
 ## Limitation
 This dataset contains product listings and review information, not verified transaction records. Therefore, this project does not measure actual sales, revenue, or purchasing behavior.
 
+## Dashboard Preview.
+
+![Power BI Dashboard](Amazon_dashboard.png)
+
 ## Conclusion
 This project demonstrates how Python and Power BI can be used to clean, analyze, and visualize product pricing and customer review data.
 
